@@ -30,6 +30,10 @@ Used dataset is attached: CO2 Dataset.xlsx
 
 It was used 'CO2 Data Cleaned' sheet.
 
+##### Visualization of CO2 per capita per region
+
+- Visualization in which the CO2 emissions are displayed per capita per region
+
 Dimensions and measures:
 
 Double-click the Region dimension - will show a maps of the regions on the planet. 
