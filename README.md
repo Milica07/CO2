@@ -43,4 +43,4 @@ For scaling CO2 per capita -> Double-click the measure CO2 Per Capita -> This ch
 
 See attached PNG file: CO2_perCapita_perRegion
 
-Link: https://public.tableau.com/views/CO2percountry_16998877353740/CO2?:language=en-US&:display_count=n&:origin=viz_share_link
+[Tableau](https://public.tableau.com/views/CO2percountry_16998877353740/CO2?:language=en-US&:display_count=n&:origin=viz_share_link)
